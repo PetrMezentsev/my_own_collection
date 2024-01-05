@@ -1,0 +1,6 @@
+---
+# tasks file for role_for_test_module
+- name: Call my_own_module
+  my_own_module:
+    path: './my_test_file.md'
+    content: "Content from playbook"

@@ -1,0 +1,4 @@
+---
+# defaults file for role_for_test_module
+path: './my_test_file.md'
+content: "Content from playbook"
